@@ -6,6 +6,8 @@ This is an official pytorch implementation of [*Adaptive Decoupled Pose Knowledg
 ## Environment
 The code is developed using python 3.6 on Ubuntu 16.04. NVIDIA GPUs are needed. The code is developed and tested using 2x2080Ti GPU cards. Other platforms or GPU cards are not fully tested.
 
+![](./figure/intro.pdf)
+
 ## Quick start
 ### Installation
 1. Install pytorch >= v0.4.0 following [official instruction](https://pytorch.org/).
